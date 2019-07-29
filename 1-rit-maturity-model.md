@@ -1,4 +1,6 @@
 # Leveraging a Research IT Maturity Model for Strategic Decision
+https://pearc19.conference-program.com/?post_type=page&p=11&id=work106&sess=sess127
+
 
 2019-07-29 08:30-12:00
 
