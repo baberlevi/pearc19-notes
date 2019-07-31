@@ -1,6 +1,8 @@
 # Publishing and Serving Machine Learning Models with DLHub
 2019-07-31 11:30
 
+https://www.dlhub.org/
+
 where should researchers share ML models ?
 
 ### scientified ML requirements
